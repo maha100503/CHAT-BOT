@@ -1,4 +1,5 @@
-chat bot
+chat bot:
+
 1.Setting up NLTK Chat: You've defined patterns and responses for the chatbot using NLTK's Chat class. These patterns match user inputs, and the corresponding responses are selected randomly from the list provided.
 
 2.Creating FastAPI App: You've created a FastAPI application with two endpoints: one for rendering the HTML page where users can chat (/) and another for handling the chat interactions (/chat).
